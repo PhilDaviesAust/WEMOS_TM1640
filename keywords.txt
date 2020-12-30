@@ -6,22 +6,24 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MLED	KEYWORD1
+TM1640	            KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-display	KEYWORD2
-clear	KEYWORD2
-dot		KEYWORD2
+display	            KEYWORD2
+clear	            KEYWORD2
+dot		            KEYWORD2
+writeCharToBuffer   KEYWORD2
+writeToBuffer       KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-disBuffer	LITERAL1
-intensity	LITERAL1
+disBuffer	        LITERAL1
+intensity	        LITERAL1
 
 
 
